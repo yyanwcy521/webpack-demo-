@@ -2,7 +2,7 @@
 
 ## webpack 4.6 -> 5
 
-## 0配置 4.0+
+## 配置 4.0+
 
 ## 使用webpack
 - 初始化package.json
